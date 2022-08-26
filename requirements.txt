@@ -1,0 +1,10 @@
+
+
+pandas
+numpy
+uproot3
+matplotlib
+scikit-learn
+keras
+tensorflow
+xgboost==1.2
