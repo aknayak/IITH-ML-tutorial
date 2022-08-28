@@ -1,8 +1,7 @@
 
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sanuvarghese/IITH-ML-tutorial/HEAD)
  
- .. image:: https://mybinder.org/badge_logo.svg
-    target: https://mybinder.org/v2/gh/sanuvarghese/IITH-ML-tutorial/HEAD
+ 
 # IITH-ML-tutorial
 Jupyter notebooks for DMLHC school in IIT Hyderabad
 
