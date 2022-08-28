@@ -25,3 +25,8 @@ conda activate mltutorial
 
 pip install -r requirements.txt
 ```
+
+### Additional resources
+
+1) https://github.com/pierinim/tutorials
+2) https://jduarte.physics.ucsd.edu/capstone-particle-physics-domain/README.html
