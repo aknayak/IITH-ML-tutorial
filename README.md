@@ -1,5 +1,5 @@
 
- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sanuvarghese/IITH-ML-tutorial/HEAD)
+ [![Binder](https://mybinder.org/badge_logo.svg)](https:/aknayak/IITH-ML-tutorial/mybinder.org/v2/gh//HEAD)
  
  
 # IITH-ML-tutorial
